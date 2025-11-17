@@ -1,0 +1,16 @@
+.fancy-btn{
+    background-color:black;
+    color: white;
+}
+
+.main-heading{
+    background-color:green;
+    color: white;
+font-size: 30px;
+}
+
+.secondary-heading{
+    background-color: aquamarine;
+    color: white;
+    font-size: 25px;
+}
